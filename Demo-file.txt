@@ -4,3 +4,4 @@ String 3
 String 4
 String 5 to commit
 First commit to the feature
+Second commit to the feature
